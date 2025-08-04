@@ -38,7 +38,7 @@ ContenidoAudiovisual/
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/ContenidoAudiovisual.git
+git clone https(https://github.com/Javired10/Unidad4.git
 cd ContenidoAudiovisual
 ```
 
